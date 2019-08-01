@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DownloadImageAppUsingSimpleThreads</string>
+
+    <string-array name="urls">
+
+        <item>Image1</item>
+        <item>Image2</item>
+        <item>Image3</item>
+        <item>Image4</item>
+        <item>Image5</item>
+        <item>Image6</item>
+        <item>Image7</item>
+
+
+    </string-array>
+        <string-array name="image_urls">
+
+
+
+            <item>http://3.bp.blogspot.com/-BwqWTFo9qys/TmhGxMLHYkI/AAAAAAAAFYk/Wcurv53n5Aw/s1600/hollywood+hot+actress+pictures+3.jpg</item>
+            <item>http://www.juicyposter.us/wp-content/uploads/2015/11/Hot-Hollywood-Actress-Picture-e1448810205714.png</item>
+            <item>http://4.bp.blogspot.com/_H8Y9XEQXkGo/S98blwurlWI/AAAAAAAAJ0g/_TAOaAnNE_s/s1600/1.Hollywood-Actress-Scarlett-Johansson.jpg</item>
+            <item>http://www.actresswallpapers.in/wallpapers/hillary-duff-super-hot-latest-wide-screen-wallpaper.jpg</item>
+            <item>http://4.bp.blogspot.com/_8H0ken3wwtE/S81Y7hJGevI/AAAAAAAATZg/PPmnWM6l62I/s1600/bollywood-actress-unseen-photos2.jpg</item>
+            <item>https://s-media-cache-ak0.pinimg.com/736x/b0/38/e7/b038e71e01681631274097379bc3a4f1.jpg</item>
+            <item>http://images.iimg.in/c/553e52a0c55d32023d8b4567-4-501-0-1430147745/google/hollywood-actress-hot-spicy-gallery-southstarz.img?crop=1</item>
+        </string-array>
+</resources>
